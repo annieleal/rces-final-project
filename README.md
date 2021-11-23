@@ -16,4 +16,4 @@ Can satellite based estimates of carbon export be used to improve the numeric re
 
 ### Analysis Summary
 
-TEI data from the GEOTRACES GP15 cruise in the Pacific Ocean will be used to calculate pBa fluxes throughout the water column. These fluxes will then be compared with two different satellite based estimates of carbon export. A numeric relationship will be derived between these two quantities in order to better constrain $pBa_{xs}$ as a paleo-proxy for carbon export production.
+TEI data from the GEOTRACES GP15 cruise in the Pacific Ocean will be used to calculate pBa fluxes throughout the water column. These fluxes will then be compared with two different satellite based estimates of carbon export. A numeric relationship will be derived between these two quantities in order to better constrain pBa as a paleo-proxy for carbon export production.
