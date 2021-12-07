@@ -1,5 +1,7 @@
 # RCES Final Project: Annie Leal
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pangeo-data/pangeo-docker-images/2021.09.30?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fannieleal%252Frces-final-project%26urlpath%3Dlab%252Ftree%252Frces-final-project%252FAnnieLeal_RCES_FinalProject.ipynb%26branch%3Dmain)
+
 ### Scientific Question
 
 Can satellite based estimates of carbon export be used to improve the numeric relationship between export production and its paleo-proxy, particulate excess barium (pBa), in the Pacific basin?
