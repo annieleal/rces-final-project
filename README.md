@@ -4,7 +4,7 @@
 
 ### Scientific Question
 
-Can satellite based estimates of carbon export ($F(POC)_{ex}$), in conjunction with measured nutrient availability, improve our understanding of carbon export and the carbon cycle in the global ocean?
+Can satellite based estimates of carbon export, in conjunction with measured nutrient availability, improve our understanding of carbon export and the carbon cycle in the global ocean?
 
 ### Datasets
 
@@ -15,6 +15,6 @@ Can satellite based estimates of carbon export ($F(POC)_{ex}$), in conjunction w
 
 ### Analysis Summary
 
-Measured $F(POC)_{ex}$ will be compared to two different satellite based estimates of $F(POC)_{ex}$. This comparision should shed light upon which factors and model parameters primarily affect carbon export, at least to first order. In addition to elucidating information about export processes, this analysis can allow us to compare model accuracy and determine which of these models can be more reliably used for these estimates in undersampled regions of the ocean. 
+Measured carbon export will be compared to two different satellite based estimates of export. This comparision should shed light upon which factors and model parameters primarily affect carbon export, at least to first order. In addition to elucidating information about export processes, this analysis can allow us to compare model accuracy and determine which of these models can be more reliably used for these estimates in undersampled regions of the ocean. 
 
-Finally, TEI data from multiple GEOTRACES cruises will be overlaid on the $F(POC)_{ex}$ data. Specifically, surface macro and micro nutrient concentrations will be compared to $F(POC)_{ex}$ to determine if nutrient availability to primary producers has an impact on export.
+Finally, TEI data from multiple GEOTRACES cruises will be overlaid on primary productivity data. Specifically, surface macro and micro nutrient concentrations will be compared to net primary productivity to determine if nutrient availability to primary producers has an impact on export.
