@@ -4,18 +4,17 @@
 
 ### Scientific Question
 
-Can satellite based estimates of carbon export be used to improve the numeric relationship between export production and its paleo-proxy, particulate excess barium (pBa), in the Pacific basin?
-
+Can satellite based estimates of carbon export ($F(POC)_{ex}$), in conjunction with measured nutrient availability, improve our understanding of carbon export and the carbon cycle in the global ocean?
 
 ### Datasets
 
-- [GEOTRACES GP15](https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/cf2d9ba9-d51d-3b7c-e053-8486abc0f5fd/)  trace element and isotope (TEI) data
-
-- [Vertically Generalized Production Model (VGPM)](http://orca.science.oregonstate.edu/1080.by.2160.8day.xyz.vgpm.m.chl.m.sst.php) sea surface temperature and primary production satellite data
-
 - [SIMPLE-TRIM](https://tdevries.eri.ucsb.edu/models-and-data-products/) carbon export model output
+
+- [GEOTRACES IDP 2021](https://www.bodc.ac.uk/data/published_data_library/catalogue/10.5285/cf2d9ba9-d51d-3b7c-e053-8486abc0f5fd/)  trace element and isotope (TEI) data
 
 
 ### Analysis Summary
 
-TEI data from the GEOTRACES GP15 cruise in the Pacific Ocean will be used to calculate pBa fluxes throughout the water column. These fluxes will then be compared with two different satellite based estimates of carbon export. A numeric relationship will be derived between these two quantities in order to better constrain pBa as a paleo-proxy for carbon export production.
+Measured $F(POC)_{ex}$ will be compared to two different satellite based estimates of $F(POC)_{ex}$. This comparision should shed light upon which factors and model parameters primarily affect carbon export, at least to first order. In addition to elucidating information about export processes, this analysis can allow us to compare model accuracy and determine which of these models can be more reliably used for these estimates in undersampled regions of the ocean. 
+
+Finally, TEI data from multiple GEOTRACES cruises will be overlaid on the $F(POC)_{ex}$ data. Specifically, surface macro and micro nutrient concentrations will be compared to $F(POC)_{ex}$ to determine if nutrient availability to primary producers has an impact on export.
